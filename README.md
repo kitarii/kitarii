@@ -1,12 +1,10 @@
-# Hi 👋, I'm Khaoula Tiyari
-
-### A Computer Science Student and Graphic Design Enthusiast from ✨ Morocco ✨
-
-- 🔭 Currently working on **42 projects**
-- 🌱 Currently learning **C & Web Development**
-- 📫 Reach me at **[khaoulatiyari1@gmail.com](mailto:khaoulatiyari1@gmail.com)**
-- ⚡ Fun fact: **I'm probably somewhere creating magic...**
-
+Hi 👋, I'm Khaoula Tiyari
+A Computer Science Student & Graphic Design Enthusiast from ✨ Morocco ✨
+🔭 I’m currently diving deep into 42 coding projects
+🌱 Actively learning C & Web Development
+🎨 Obsessed with creative designs and visual storytelling
+📫 You can reach me at khaoulatiyari1@gmail.com
+⚡ Fun fact: If I’m not coding, I’m probably designing something awesome or sipping on atay!
 ---
 
 ### Connect with me:

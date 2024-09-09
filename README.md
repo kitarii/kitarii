@@ -1,5 +1,4 @@
 Hi 👋, I'm Khaoula Tiyari
-
 A Computer Science Student & Graphic Design Enthusiast from ✨ Morocco ✨
 
 🔭 I’m currently diving deep into 42 coding projects
@@ -7,7 +6,7 @@ A Computer Science Student & Graphic Design Enthusiast from ✨ Morocco ✨
 🎨 Obsessed with creative designs and visual storytelling
 📫 You can reach me at khaoulatiyari1@gmail.com
 ⚡ Fun fact: If I’m not coding, I’m probably designing something awesome or sipping on atay!
----
+
 
 ### Connect with me:
 

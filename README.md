@@ -1,5 +1,7 @@
 Hi 👋, I'm Khaoula Tiyari
+
 A Computer Science Student & Graphic Design Enthusiast from ✨ Morocco ✨
+
 🔭 I’m currently diving deep into 42 coding projects
 🌱 Actively learning C & Web Development
 🎨 Obsessed with creative designs and visual storytelling
